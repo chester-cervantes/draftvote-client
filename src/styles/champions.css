@@ -1,0 +1,44 @@
+img {
+    padding-left: 2px;
+    padding-right: 2px;
+    width: 100px;
+    height: 100px;
+}
+
+.champion-container {
+    padding: 5px;
+    margin: 2px;
+    display: inline-block;
+    background-color: midnightblue;
+}
+
+.champion-selected {
+    background-color: darkorange;
+}
+
+.pick-container {
+    padding: 5px;
+    margin: 2px;
+
+    background-color: white;
+}
+
+.pick-selected {
+    background-color: darkgoldenrod;
+}
+
+.champions {
+    padding: 2px;
+    alignment: center;
+    overflow: scroll;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    height: 650px;
+}
+
+.red-side {
+    alignment: right;
+}
+
+p {
+    position: inherit;
+}

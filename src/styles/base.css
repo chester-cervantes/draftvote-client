@@ -1,0 +1,11 @@
+:root {
+    --danger: #ff8a80;
+    --dark: #343434;
+    --light: #d3d3d3;
+    --tan: #F4DBB3;
+    --grey: #84898C;
+}
+
+body {
+    background-color: var(--light);
+}
